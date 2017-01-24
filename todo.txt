@@ -1,0 +1,46 @@
+﻿#define COLOR_GREY 0xAFAFAFAA // mache eine Farbe namens GREY der Farbcode ist 0xAFAFAFAA
+#define COLOR_GREEN 0x33AA33AA
+#define COLOR_RED 0xAA3333AA
+#define COLOR_YELLOW 0xFFFF00AA
+#define COLOR_WHITE 0xFFFFFFAA
+#define COLOR_DARKRED 0x660000AA
+#define COLOR_BLUE 0x0000BBAA
+#define COLOR_ORANGE 0xFF9900AA
+#define COLOR_PINK 0xFF66FFAA
+#define COLOR_LIGHTBLUE 0x33CCFFAA
+#define COLOR_CYAN 0x00BFF3AA
+#define COLOR_BLACK 0x000000AA
+#define COLOR_BROWN 0XA52A2AAA
+#define COLOR_GOLD 0xB8860BAA
+#define COLOR_INDIGO 0x4B00B0AA
+#define COLOR_LAWNGREEN 0x7CFC00AA
+#define COLOR_LIMEGREEN 0x32CD32AA
+#define COLOR_OLIVE 0x808000AA
+#define COLOR_SEAGREEN 0x2E8B57AA
+#define COLOR_TOMATO 0xFF6347AA
+#define COLOR_YELLOWGREEN 0x9ACD32AA
+#define COLOR_MEDIUMAQUA 0x83BFBFAA
+#define COLOR_FLBLUE 0x6495EDAA
+#define COLOR_MAGENTA 0xFF00FFFF
+#define COLOR_PURPLE 0x800080AA
+#define COLOR_GRELLRED 0xFF000000
+#define COLOR_LIGHTGREEN 0x86FF59FF
+#define COLOR_LIGHTBLUE 0x33CCFFAA
+
+todo:  Leaderfunktionen(add??) // Fraktionswirtschaft // Krankenhaus // Pickup Höhe hinter dem Krankenwagen
+Fraktions Daten bei Serverstop speichern //STerben in Innenräumen  // called  // Andere Lösung für das Infobox schließen bei Toten Peds ...
+Ped Marker zu shades // Peds werden nach dem Tot so oder so erstellt, egal was der Spieler anklickt!
+
+
+
+
+
+
+
+
+
+
+
+
+
+

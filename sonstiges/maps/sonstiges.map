@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+	<object name="delux object" posX="1299.6567382813" posY="-963.24267578125" posZ="37.368179321289" rotX="" rotY="" rotZ="" model="2933" />
+	<object name="delux object (1)" posX="490.67858886719" posY="-1889.6197509766" posZ="1.2181829214096" rotX="5.4974365234375" rotY="358.24194335938" rotZ="2.9185180664063" model="1642" />
+	<object name="delux object (2)" posX="489.15191650391" posY="-1888.7900390625" posZ="1.6362828016281" rotX="15.561767578125" rotY="273.76593017578" rotZ="170.40612792969" model="2410" />
+	<object name="delux object (3)" posX="492.30908203125" posY="-1889.6998291016" posZ="1.2345072031021" rotX="5.2492065429688" rotY="358.99578857422" rotZ="0.091888427734375" model="1640" />
+	<object name="delux object (4)" posX="488.60504150391" posY="-1889.7471923828" posZ="1.5910054445267" rotX="357.59997558594" rotY="163.73547363281" rotZ="50.799957275391" model="2405" />
+	<object name="delux object (5)" posX="1036.962890625" posY="-1899.5048828125" posZ="13.243666648865" rotX="349.99694824219" rotY="2.7740478515625" rotZ="338.45581054688" model="3594" />
+	<object name="delux object (6)" posX="1030.2392578125" posY="-1906.130859375" posZ="12.561420440674" rotX="14.309692382813" rotY="7.44873046875" rotZ="216.88110351563" model="12957" />
+	<object name="delux object (7)" posX="1032.2611083984" posY="-1907.0135498047" posZ="12.247385978699" rotX="356.75646972656" rotY="183.75607299805" rotZ="4.9627380371094" model="1098" />
+</map>
+

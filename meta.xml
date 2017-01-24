@@ -1,0 +1,231 @@
+﻿<meta>
+	<info author="Tockra" version="Alpha" type="gamemode" name="Unlimited Reallife" description="German Reallife Script" />
+	
+	<file src="sounds/Herzschlag.mp3" />
+	<file src="sounds/Defi.mp3" />
+	<file src="sounds/info.wav" />
+	
+	<file src="images/transaction.png" />
+	<file src="images/KontoEinzahlen.png" />
+	<file src="images/Bank/transactionS.png" />
+	<file src="images/Bank/KontoEinzahlenS.png" />
+	<file src="images/Unlimited-Reallife.png" />
+	<file src="images/sparkasse.png" />
+	<file src="images/Schreibtisch3.png" />
+	<file src="images/Tur.png" />
+	<file src="images/Bank/abbuchenAnim.png" />
+	<file src="images/Bank/einzahlenAnim.png" />
+	<file src="images/Bank/transAnim.png" />
+	<file src="images/Bank/bankgeschlossen.png" />
+	<file src="images/Bank/abbuchenS.png" />
+	<file src="images/Bank/Sprechblase1.png" />
+	<file src="images/Bank/Sprechblase2.png" />
+	<file src="images/Bank/Sprechblase3-1.png" />
+	<file src="images/Bank/geldAnim.png" />
+	<file src="images/Bank/Sprechblase3-2.png" />
+	<file src="images/Bank/Sprechblase4-1.png" />
+	<file src="images/Bank/Sprechblase4-2.png" />
+	<file src="images/Bank/Sprechblase5.png" />
+	<file src="images/Bank/Sprechblase6-1.png" />
+	<file src="images/Bank/Sprechblase6-2.png" />
+	<file src="images/Bank/Sprechblase7.png" />
+	<file src="images/Bank/btn_exit.png" />
+	<file src="images/Bank/btn_back.png" />
+	<file src="images/Bank/btn_exitS.png" />
+	<file src="images/Bank/btn_backS.png" />
+	<file src="images/Bank/SGT.png" />
+	<file src="images/Bank/SGTS.png" />
+	<file src="images/Bank/SK.png" />
+	<file src="images/Bank/SKS.png" />
+	<file src="images/Bank/SparCr.png" />
+	<file src="images/Bank/GiroCr.png" />
+	<file src="images/Bank/blattAnim.png" />
+	<file src="images/Bank/Kontoauszug.png" />
+	<file src="images/Bank/transactionW.png" />
+	<file src="images/sparbuch.png" />
+	<file src="images/sparkassenKarte.png" />
+	<file src="images/sparbuchS.png" />
+	<file src="images/sparkassenKarteS.png" />
+	<file src="images/abbuchen.png" />
+	<file src="images/krankenwagen/kreuz.png" />
+	
+	<file src="infoboxen/images/infoCancel.png" />
+	<file src="infoboxen/images/infoCancelM.png" />
+	
+	<file src="infoboxen/images/infoBoxLinks.png" />
+	<file src="infoboxen/images/infoBoxLinksM.png" />
+	
+	<file src="infoboxen/images/infoBoxRechts.png" />
+	<file src="infoboxen/images/infoBoxRechtsM.png" /> 
+	
+	<file src="infoboxen/images/infoBoxNext.png" />
+	<file src="infoboxen/images/infoBoxNextM.png" /> 
+	
+	<file src="infoboxen/images/infoBoxLast.png" />
+	<file src="infoboxen/images/infoBoxLastM.png" /> 
+	
+	<file src="infoboxen/images/NoPic.png" />
+	<file src="infoboxen/images/Ueberschrift.png" />
+	<file src="infoboxen/images/fraktionadd.png" />
+	<file src="infoboxen/images/infobank.png" />
+	<file src="infoboxen/images/exitinfo.png" />
+	<file src="infoboxen/images/krankenhaus.png" />
+	
+	<file src="Inventar/images/rucksackIcon.png" />
+	<file src="Inventar/images/schluesselbund.png" />
+	<file src="Inventar/images/gun.png" />
+	<file src="Inventar/images/portmonai.png" />
+	<file src="Inventar/images/closeinv.png" />
+	<file src="Inventar/images/closeinvS.png" />
+	<file src="Inventar/images/moveinv.png" />
+	<file src="Inventar/images/moveinvS.png" />
+	<file src="Inventar/images/reset.png" />
+	<file src="Inventar/images/resetS.png" />
+	<file src="Inventar/images/infoblubf.png" />
+	
+	<file src="Inventar/images/items/ECKarte.png" />
+	<file src="Inventar/images/items/Geld.png" />
+	<file src="Inventar/images/items/weapons/AK-47.png" />
+	<file src="Inventar/images/items/weapons/Baseballschlaeger.png" />
+	<file src="Inventar/images/items/weapons/Billiard Koe.png" />
+	<file src="Inventar/images/items/weapons/Blumen.png" />
+	<file src="Inventar/images/items/weapons/Countryschrotflinte.png" />
+	<file src="Inventar/images/items/weapons/Desert Eagle.png" />
+	<file src="Inventar/images/items/weapons/Digitalkamera.png" />
+	<file src="Inventar/images/items/weapons/Fallschirm.png" />
+	<file src="Inventar/images/items/weapons/Feuerloescher.png" />
+	<file src="Inventar/images/items/weapons/Flammenwerfer.png" />
+	<file src="Inventar/images/items/weapons/Gehstock.png" />
+	<file src="Inventar/images/items/weapons/Golfschlaeger.png" />
+	<file src="Inventar/images/items/weapons/Granate.png" />
+	<file src="Inventar/images/items/weapons/Infrarotsichtgeraet.png" />
+	<file src="Inventar/images/items/weapons/Katana.png" />
+	<file src="Inventar/images/items/weapons/Kettensaege.png" />
+	<file src="Inventar/images/items/weapons/Kurzer Dildo.png" />
+	<file src="Inventar/images/items/weapons/Langer lila Dildo.png" />
+	<file src="Inventar/images/items/weapons/M4.png" />
+	<file src="Inventar/images/items/weapons/Messer.png" />
+	<file src="Inventar/images/items/weapons/Molotov Cocktails.png" />
+	<file src="Inventar/images/items/weapons/MP5.png" />
+	<file src="Inventar/images/items/weapons/Nachtsichtgeraet.png" />
+	<file src="Inventar/images/items/weapons/Pistole.png" />
+	<file src="Inventar/images/items/weapons/Raketenwerfer.png" />
+	<file src="Inventar/images/items/weapons/Rucksackbomben.png" />
+	<file src="Inventar/images/items/weapons/Rucksackbombenzuender.png" />
+	<file src="Inventar/images/items/weapons/Sawn-Off Schrotflinte.png" />
+	<file src="Inventar/images/items/weapons/Schalldaempferpistole.png" />
+	<file src="Inventar/images/items/weapons/Schaufel.png" />
+	<file src="Inventar/images/items/weapons/Schlagring.png" />
+	<file src="Inventar/images/items/weapons/Schlagstock.png" />
+	<file src="Inventar/images/items/weapons/Schrotflinte.png" />
+	<file src="Inventar/images/items/weapons/Sniper.png" />
+	<file src="Inventar/images/items/weapons/SPAZ-12 Gefechtsschrotflinte.png" />
+	<file src="Inventar/images/items/weapons/Spraydose.png" />
+	<file src="Inventar/images/items/weapons/TEC-9.png" />
+	<file src="Inventar/images/items/weapons/Traenengas.png" />
+	<file src="Inventar/images/items/weapons/Uzi.png" />
+	<file src="Inventar/images/items/weapons/Vibrator.png" />
+	<file src="Inventar/images/items/weapons/Waermelenkraketenwerfer.png" />
+	
+	
+	<file src="Beduerfnisse/particles/insects.dff" />
+	<file src="Beduerfnisse/particles/WS_factorysmoke.dff" />
+
+	<script src="mysql/mysql_connect.lua" type="server" />
+	<script src="mysql/mysql_save.lua" type="server" />
+	<script src="sonstiges/functions/functions_s.lua" type="server" />
+	<script src="sonstiges/functions/functions_c.lua" type="client" />
+	<script src="sonstiges/settings/settings_s.lua" type="server" />
+	<script src="sonstiges/settings/settings_c.lua" type="client" />
+	
+	
+	<script src="sonstiges/sonderzeichen/compiler_s.lua" type="server" />
+	<script src="sonstiges/sonderzeichen/client/compiler_c.lua" type="client" />
+	
+	
+	<script src="sonstiges/blocks/commands.lua" type="server" />
+	<script src="sonstiges/blocks/console.lua" type="server" />
+	<script src="sonstiges/blocks/elementData.lua" type="server" />
+	<script src="sonstiges/blocks/colorcodes.lua" type="server" />
+	<script src="sonstiges/blocks/nickchange.lua" type="server" />
+	
+	<script src="sonstiges/joinkick/wrongpw.lua" type="server" />
+	<script src="sonstiges/realchat/realchat.lua" type="server" />
+	<script src="sonstiges/playerids/playerids.lua" type="server" />
+	<script src="sonstiges/serverjoin/welcome.lua" type="server" />
+	<script src="sonstiges/realtime/setTime.lua" type="server" />
+	<script src="wetter/wetter_s.lua" type="server" />
+	<script src="clicksystem/client/settings_c.lua" type="client" />
+	<script src="clicksystem/client/click/click_bank_c.lua" type="client" />
+	
+	
+	
+	
+	<script src="eingaenge/eingaenge_s.lua" type="server" />
+	<script src="eingaenge/client/eingaenge_c.lua" type="client" />
+		
+	<script src="infoboxen/infoBox_s.lua" type="server" />
+	<script src="infoboxen/client/infoBox_c.lua" type="client" />
+	
+	<script src="Bank/client/bank_c.lua" type="client" />
+	<script src="Bank/client/bankTrans_c.lua" type="client" />
+	<script src="Bank/client/bank_map_c.lua" type="client" />
+	
+	<script src="Bank/bank_s.lua" type="server" />
+	<script src="Bank/bankTrans_s.lua" type="server" /> 
+	<script src="Bank/bank_map_s.lua" type="server" />
+	
+	<script src="vehicles/tankstellen/tankstellen_map_s.lua" type="server" />
+	
+	<script src="fraktionen/fraktionssystem_s.lua" type="server" />
+	<script src="fraktionen/client/fraktionssystem_c.lua" type="client" />
+	
+	<script src="internetcafe/internetcafe_map_s.lua" type="server" />
+	
+	<script src="fraktionen/medics/medic_map_s.lua" type="server" />
+	<script src="fraktionen/medics/medicBase_s.lua" type="server" />
+	<script src="fraktionen/medics/medic_s.lua" type="server" />
+	<script src="fraktionen/medics/client/medicBase_c.lua" type="client" />
+	<script src="fraktionen/medics/client/medic_c.lua" type="client" />
+	
+	<script src="fraktionen/schule/schule_map_s.lua" type="server" />
+	
+	<script src="fraktionen/mechaniker/mechaniker_map_s.lua" type="server" />
+	
+	<script src="fraktionen/cops/cops_map_s.lua" type="server" />
+	
+	<script src="fraktionen/feuerwehr/feuerwehr_map_s.lua" type="server" />
+	
+	<script src="sonstiges/maps/bus_map_s.lua" type="server" />
+	<script src="sonstiges/maps/sonstiges_map_s.lua" type="server" />
+
+	<script src="Login/loginGui_s.lua" type="server" />
+	<script src="Login/client/loginGui_c.lua" type="client" />
+
+	<script src="todessystem/todessystem_s.lua" type="server" />
+	<script src="todessystem/todessystem_map_s.lua" type="server" />
+	<script src="todessystem/client/todessystem_c.lua" type="client" />
+	
+
+	<script src="Beduerfnisse/beduerfnisse_main_s.lua" type="server" />
+	<script src="Beduerfnisse/beduerfnisse_s.lua" type="server" />
+	<script src="Beduerfnisse/beduerfnisse_energie_s.lua" type="server" />
+	<script src="Beduerfnisse/beduerfnisse_gesundheit_s.lua" type="server" />
+	<script src="Beduerfnisse/beduerfnisse_hunger_s.lua" type="server" />
+	<script src="Beduerfnisse/beduerfnisse_hygiene_s.lua" type="server" />
+	<script src="Beduerfnisse/beduerfnisse_harndrang_s.lua" type="server" />
+	<script src="Beduerfnisse/client/beduerfnisse_c.lua" type="client" />
+	
+	<script src="Inventar/inventar_functions_s.lua" type="server" />
+	<script src="Inventar/inventar_main_s.lua" type="server" />
+	<script src="Inventar/inventar_worlditems_main_s.lua" type="server" />
+	<script src="Inventar/inventar_weapons_functions_s.lua" type="server" />
+	<script src="Inventar/client/inventar_main_c.lua" type="client" />
+	<script src="Inventar/client/inventar_worlditems_main_c.lua" type="client" />
+	<script src="Inventar/client/inventar_buttonevents_c.lua" type="client" />
+	<script src="Inventar/client/inventar_itemdef_c.lua" type="client" />
+	
+	<script src="scheine/scheine_s.lua" type="server" />
+	
+	
+</meta>
